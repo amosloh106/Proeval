@@ -1,5 +1,4 @@
 #Single Processor
-#Single meep
 import time
 
 def basic_func(x):
